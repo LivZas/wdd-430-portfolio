@@ -10,7 +10,7 @@ export default function FavoritesCard({
     favorites
 }: FavoritesCardProps) {
     return (
-        <article className="p-4 border-l-4 border-orange-600 bg-gray-800 rounded">
+        <article className="p-4 border-l-4 border-blue-600 bg-gray-800 rounded">
         <h3 className="text-xl font-bold mb-2">
             {title}
             </h3>
